@@ -164,8 +164,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/leogocontato/)
 - GitHub: [@seu-usuario](https://github.com/Lewxg)
 
----g
 
 <p align="center">
-  Feito com ❤️ por Leonardo Oliveira
+  Feito com ❤️ por Lewxg
 </p>
